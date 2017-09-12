@@ -1,0 +1,8 @@
+com\thcode\apirest\dominio\Pago.class
+com\thcode\apirest\dominio\Contrato.class
+com\thcode\apirest\dominio\Persona.class
+com\thcode\apirest\controladores\ClienteControlador.class
+com\thcode\apirest\dominio\Contratista.class
+com\thcode\apirest\dominio\Cliente.class
+com\thcode\apirest\dominio\Propiedad.class
+com\thcode\apirest\repositorios\ClienteRepositorio.class
